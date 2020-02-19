@@ -68,11 +68,11 @@ Francia | París | Francés
 Los links y anclas se hacen poniendo el texto que se va a mostrar entre corchetes, y el link entre paréntesis.  
 El ancla lleva una almohadilla y el nombre del titular con las palabras separadas por guiones.
 ```
-[Esto es un link a google](https://www.google.com)
+[Esto es un link a google](https://www.google.com)  
 [Esto en un ancla que te devuelve al índice](#índice)
 ```
 
-[Esto es un link a google](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Esto es un link a google](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 [Esto en un ancla que te devuelve al índice](#Índice)
 
 ## Citas de otras personas

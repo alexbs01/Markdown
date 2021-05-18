@@ -8,7 +8,7 @@
 - [Listas](#listas)
 	- [Ordenadas](#ordenadas)
 	- [Desordenadas](#desordenadas)
-- [Barra horizontal](#barra-horiontal)
+- [Barra horizontal](#barra-horizontal)
 - [Insertar imágenes](#insertar-imágenes)	
 
 ## Titulares
@@ -49,19 +49,21 @@ Los acentos graves son estos (```)
 
 ## Tablas
 
-Para hacer una tabla se hace con **|** y **-**.
+Para hacer una tabla se hace con **|** y **-**. Los **|** para dividir las columnas y los **-** para hacer que la fila de encima esté en negrita como si fuera un titular. Además, si ponemos **:** en los guiones podemos escoger hacia que lado queremos que se alineen las columnas.  
 
 ```
 País | Capital | Idioma
----  | ---    | ---     
+:---  | :---:    | ---:     
 *España* | **Madrid** | ***Español***
 Francia | París | Francés
+Alineación a la izquierda | Alineación al centro | Alineación a la derecha
 ```
 
 País | Capital | Idioma
----  | ---    | ---     
+:---  | :---:    | ---:     
 *España* | **Madrid** | ***Español***
 Francia | París | Francés
+Alineación a la izquierda | Alineación al centro | Alineación a la derecha
 
 ## Links y anclas
 
@@ -83,7 +85,7 @@ Para citar se pone un `>` al comienzo de la línea.
 > Esto es una cita.
 
 ## Listas
-### Ordendas
+### Ordenadas
 Levan el número correspondiente, entre 2. y 2.1, hay que dar salto de línea.
 ```
 1. Número uno
@@ -121,48 +123,3 @@ Para insertar una imagen se hace de la misma forma que un link, solo que con una
 ![Hello](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 ```
 ![Hello](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
